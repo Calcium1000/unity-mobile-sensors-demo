@@ -1,0 +1,1 @@
+C:\Users\Camille\OneDrive\Dokumenter\GitHub\unity-mobile-sensors-demo\Mobile Sensor Demo\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
